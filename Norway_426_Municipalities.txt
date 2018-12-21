@@ -1,0 +1,422 @@
+Alta, Norge
+Alta, Norway
+Bergen, Norge
+Bergen, Norway
+Ski, Norge
+Ski, Norway
+Flora, Norge
+Flora, Norway
+Halden
+Moss, Norge
+Moss, Norway
+Sarpsborg
+Fredrikstad
+Hvaler
+Aremark
+Rømskog
+Trøgstad
+Spydeberg
+Askim
+Eidsberg
+Skiptvet
+Rakkestad
+Råde
+Rygge
+Våler Østfold
+Hobøl
+Vestby
+Ås
+Frogn
+Nesodden
+Oppegård
+Bærum
+Asker
+Aurskog-Høland
+Sørum
+Fet
+Rælingen
+Enebakk
+Lørenskog
+Skedsmo
+Nittedal
+Gjerdrum
+Ullensaker
+Nes Akershus
+Eidsvoll
+Nannestad
+Hurdal
+Oslo
+Kongsvinger
+Hamar
+Ringsaker
+Løten
+Stange
+Nord-Odal
+Sør-Odal
+Eidskog
+Grue
+Åsnes
+Våler Hedmark
+Elverum
+Trysil
+Åmot
+Stor-Elvdal
+Rendalen
+Engerdal
+Tolga
+Tynset
+Alvdal
+Folldal
+Os Hedmark
+Lillehammer
+Gjøvik
+Dovre
+Lesja
+Skjåk
+Lom
+Vågå
+Nord-Fron
+Sør-Fron
+Ringebu
+Øyer
+Gausdal
+Østre Toten
+Vestre Toten
+Jevnaker
+Lunner
+Søndre Land
+Nordre Land
+Sør-Aurdal
+Etnedal
+Nord-Aurdal
+Vestre Slidre
+Øystre Slidre
+Vang
+Drammen
+Kongsberg
+Ringerike
+Flå
+Nes Buskerud
+Hemsedal
+Ål
+Hol
+Sigdal
+Krødsherad
+Modum
+Øvre Eiker
+Nedre Eiker
+Lier, Norge
+Lier, Norway
+Røyken
+Hurum
+Flesberg
+Rollag
+Nore og Uvdal
+Horten
+Holmestrand
+Tønsberg
+Sandefjord
+Larvik
+Svelvik
+Sande Vestfold
+Nøtterøy
+Tjøme
+Lardal
+Porsgrunn
+Skien
+Notodden
+Siljan
+Bamble
+Kragerø
+Drangedal
+Nome
+Bø Telemark
+Sauherad
+Tinn
+Hjartdal
+Seljord
+Kviteseid
+Nissedal
+Fyresdal
+Tokke
+Vinje
+Risør
+Grimstad
+Arendal
+Gjerstad
+Vegårshei
+Tvedestrand
+Froland
+Lillesand
+Birkenes
+Åmli
+Iveland
+Evje og Hornnes
+Bygland
+Bykle
+Kristiansand
+Mandal
+Farsund
+Flekkefjord
+Vennesla
+Songdalen
+Søgne
+Marnardal
+Åseral
+Audnedal
+Lindesnes
+Lyngdal
+Hægebostad
+Kvinesdal
+Sirdal
+Eigersund
+Sandnes
+Stavanger
+Haugesund
+Sokndal
+Lund, Norway
+Lund, Norge
+Bjerkreim
+Hå
+Klepp
+Gjesdal
+Randaberg
+Forsand
+Hjelmeland
+Suldal
+Sauda
+Finnøy
+Rennesøy
+Kvitsøy
+Bokn
+Tysvær
+Karmøy
+Utsira
+Vindafjord
+Etne
+Sveio
+Bømlo
+Stord
+Fitjar
+Tysnes
+Kvinnherad
+Jondal
+Odda
+Ullensvang
+Eidfjord
+Ulvik
+Granvin
+Voss
+Kvam
+Samnanger
+Os Hordaland
+Austevoll
+Sund
+Fjell
+Askøy
+Vaksdal
+Modalen
+Osterøy
+Meland
+Øygarden
+Radøy
+Lindås
+Austrheim
+Fedje
+Masfjorden
+Gulen
+Solund
+Hyllestad
+Høyanger
+Vik
+Balestrand
+Leikanger
+Sogndal
+Aurland
+Lærdal
+Årdal
+Luster
+Askvoll
+Fjaler
+Gaular
+Jølster
+Førde
+Naustdal
+Bremanger
+Vågsøy
+Selje
+Eid
+Hornindal
+Gloppen
+Stryn
+Molde
+Ålesund
+Kristiansund vapen.svg
+Vanylven
+Sande Møre og Romsdal
+Herøy Møre og Romsdal
+Ulstein
+Hareid
+Volda
+Orsta
+Orskog
+Norddal
+Stranda
+Stordal
+Sykkylven
+Skodje
+Giske
+Haram, Norge
+Haram, Norway
+Vestnes
+Rauma
+Nesset
+Midsund
+Sandøy
+Aukra
+Fræna
+Eide
+Averøy
+Gjemnes
+Tingvoll
+Sunndal
+Surnadal
+Rindal
+Halsa
+Smøla
+Aure
+Trondheim
+Hemne
+Snillfjord
+Hitra
+Frøya
+Ørland
+Agdenes
+Rissa
+Bjugn
+Åfjord
+Roan
+Osen
+Oppdal
+Rennebu
+Meldal
+Orkdal
+Røros
+Holtålen
+Midtre Gauldal
+Melhus
+Skaun
+Klæbu
+Malvik
+Selbu
+Tydal
+Steinkjer
+Namsos
+Meråker
+Stjørdal
+Frosta
+Leksvik
+Levanger
+Verdal
+Verran
+Namdalseid
+Inderøy
+Snåsa
+Lierne
+Røyrvik
+Namsskogan
+Grong
+Høylandet
+Overhalla
+Fosnes
+Flatanger
+Vikna
+Nærøy
+Leka
+Bodo
+Narvik
+Bindal
+Sømna
+Brønnøy
+Vevelstad
+Herøy Nordland
+Alstahaug
+Leirfjord
+Vefsn
+Grane
+Hattfjelldal
+Dønna
+Nesna
+Hemnes
+Rana
+Lurøy
+Træna
+Rødøy
+Meløy
+Gildeskål
+Beiarn
+Saltdal
+Fauske
+Sørfold
+Steigen
+Hamarøy
+Tysfjord
+Lødingen
+Tjeldsund
+Evenes
+Ballangen
+Røst
+Værøy
+Flakstad
+Vestvågøy
+Vågan
+Hadsel
+Bø Nordland
+Øksnes
+Sortland
+Andøy
+Moskenes
+Harstad
+Tromsø
+Kvæfjord
+Skånland
+Ibestad
+Gratangen
+Lavangen
+Bardu
+Salangen
+Målselv
+Sørreisa
+Dyrøy
+Tranøy
+Torsken
+Berg, Norge
+Berg, Norway
+Lenvik
+Balsfjord
+Karlsøy
+Lyngen
+Storfjord
+Kåfjord
+Skjervøy
+Nordreisa
+Kvænangen
+Vardø
+Vadsø
+Hammerfest
+Kautokei
+Loppa
+Hasvik
+Kvalsund
+Måsøy
+Nordkapp
+Porsanger
+Karasjok
+Lebesby
+Gamvik
+Berlevåg
+Tana, Norge
+Tana, Norway
+Nesseby
+Båtsfjord
+Sør-Varanger

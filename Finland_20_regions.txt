@@ -1,0 +1,53 @@
+Lapland
+North Ostrobothnia
+Kainuu
+North Karelia
+North Savonia
+South Savonia
+South Ostrobothnia
+Central Ostrobothnia
+Ostrobothnia
+Pirkanmaa
+Central Finland
+Satakunta
+Southwest Finland
+South Karelia
+Päijät-Häme
+Kanta-Häme
+Uusimaa
+Kymenlaakso
+Åland
+
+Lappi
+Pohjois-Pohjanmaa
+Pohjois-Karjala
+Pohjois-Savo
+Etelä-Savo
+Etelä-Pohjanmaa
+Keski-Pohjanmaa
+Pohjanmaa
+Pirkanmaa
+Keski-Suomi
+Varsinais-Suomi
+Etelä-Karjala
+Kanta-Häme
+Uusimaa
+Ahvenanmaa
+
+Lappland
+Norra Österbotten
+Kajanaland
+Norra Karelen
+Norra Savolax
+Södra Savolax
+Södra Österbotten
+Mellersta Österbotten
+Österbotten
+Birkaland
+Mellersta Finland
+Egentliga Finland
+Södra Karelen
+Päijänne-Tavastland
+Egentliga Tavastland
+Nyland
+Kymmenedalen
